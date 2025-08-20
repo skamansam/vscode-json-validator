@@ -46,6 +46,10 @@
 		"tailwindcss": "^4.0.0",
 		"typescript": "^5.0.0",
 		"vite": "^7.0.4",
+		"@codemirror/state": "^6.4.1",
+		"@codemirror/view": "^6.34.1",
+		"@codemirror/lint": "^6.8.0",
+		"@codemirror/lang-json": "^6.0.1",
 		"vite-plugin-devtools-json": "^1.0.0",
 		"vitest": "^3.2.3"
 	},
